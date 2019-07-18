@@ -4,7 +4,7 @@
 Lucas-Kanade tracker
 ====================
 
-Lucas-Kanade sparse optical flow demo. Uses goodFeaturesToTrack
+Lucas-Kanade sparse optical flow demo. Uses SIFT and ORB 
 for track initialization and back-tracking for match verification
 between frames.
 
